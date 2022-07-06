@@ -1,2 +1,2 @@
 # fastapi-react-single-container
- Simple starter project, fastapi with react frontend in a single container
+ A minimalistic HelloWorld example of an FastApi app with static React frontend running on a single docker container
